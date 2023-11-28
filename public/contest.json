@@ -1,0 +1,112 @@
+[
+  {
+    "contest_name": "Webdesign Challenge 2023",
+    "image": "https://i.ibb.co/0QvnScq/17806778-5817151.jpg",
+    "description": "Join the ultimate business challenge of the year! This contest will test your entrepreneurial skills and strategic thinking. Participants will engage in a series of challenging tasks, from analyzing market trends to devising comprehensive business plans. The competition aims to foster creativity and leadership in the business world. Get ready for an immersive experience that will push your boundaries and redefine your approach to business innovation.",
+    "contest_price": "Exclusive Trophy and Certificate",
+    "prize_money": 10000,
+    "instruction": "Follow the provided case studies and submit your innovative business plan by the deadline.",
+    "tags": "webdesign",
+    "deadline": "2023-03-15",
+    "participation_count": 150
+  },
+  {
+    "contest_name": "Medical Research Excellence",
+    "image": "https://i.ibb.co/pw6kx90/20089262-6250130.jpg",
+    "description": "Participate in the Medical Research Excellence contest to showcase your research capabilities in the field of medicine and healthcare. This prestigious competition encourages researchers to explore groundbreaking ideas and contribute to the advancement of medical science. The contest is open to professionals and students passionate about making a positive impact on healthcare. Submit your cutting-edge research paper, delve into the intricacies of medical exploration, and join a community dedicated to pushing the boundaries of medical knowledge.",
+    "contest_price": "Recognition and Networking Opportunity",
+    "prize_money": 8000,
+    "instruction": "Submit your groundbreaking medical research paper along with a detailed abstract.",
+    "tags": "medical",
+    "deadline": "2023-04-10",
+    "participation_count": 100
+  },
+  {
+    "contest_name": "Creative Article Writing Marathon",
+    "image": "https://i.ibb.co/b7PHdp6/8a3x-yo70-220622.jpg",
+    "description": "Unleash your creativity in the Creative Article Writing Marathon! Write compelling articles on various topics and showcase your writing prowess. This marathon is not just a competition; it's a journey of self-expression and storytelling. Participants are encouraged to explore diverse themes and present their unique perspectives through the art of writing. Immerse yourself in the world of words, craft narratives that captivate, and let your creativity shine.",
+    "contest_price": "Featured Publication on our Website",
+    "prize_money": 5000,
+    "instruction": "Submit original and engaging articles in English with a minimum of 1000 words.",
+    "tags": "article",
+    "deadline": "2023-02-28",
+    "participation_count": 200
+  },
+  {
+    "contest_name": "Epic Gaming Tournament 2023",
+    "image": "https://i.ibb.co/tJdmRjY/Videogames-youtube-thumbnails-with-photo.jpg",
+    "description": "Gear up for the most thrilling gaming tournament of the year! Compete with the best gamers and claim the title of the ultimate gaming champion. The Epic Gaming Tournament 2023 features multiple game genres, ensuring a dynamic and challenging experience for all participants. Join us for a celebration of skill, strategy, and pure gaming excitement! Engage in fierce battles, conquer virtual realms, and emerge as a true gaming legend.",
+    "contest_price": "Custom Gaming Gear Package",
+    "prize_money": 12000,
+    "instruction": "Register for the tournament and participate in the qualifying rounds. Only the top players will advance to the final showdown.",
+    "tags": "gaming",
+    "deadline": "2023-05-20",
+    "participation_count": 300
+  },
+  {
+    "contest_name": "Innovative Startup Challenge",
+    "image": "https://i.ibb.co/bNBcZ4t/7416621-4858.jpg",
+    "description": "Are you a budding entrepreneur with a groundbreaking startup idea? Join the Innovative Startup Challenge and turn your vision into reality. This contest is a platform for aspiring business leaders to pitch their innovative startup concepts to a panel of industry experts. From disruptive technologies to sustainable solutions, we welcome all visionary ideas that have the potential to shape the future. Seize this opportunity to receive mentorship, funding, and recognition in the startup ecosystem.",
+    "contest_price": "Seed Funding and Incubation Support",
+    "prize_money": 15000,
+    "instruction": "Submit a detailed business plan, including your startup's mission, vision, and the problem it aims to solve.",
+    "tags": "business",
+    "deadline": "2023-04-30",
+    "participation_count": 120
+  },
+  {
+    "contest_name": "Global Health Hackathon",
+    "image": "https://i.ibb.co/R05vjms/23431537-6780309.jpg",
+    "description": "Calling all innovators, developers, and healthcare enthusiasts! The Global Health Hackathon is your chance to contribute to solving critical health challenges through technology. Form interdisciplinary teams and hack solutions that can revolutionize healthcare delivery, patient outcomes, and wellness. From wearable devices to mobile apps, unleash your creativity and coding skills to make a positive impact on global health. Join us in this collaborative journey towards a healthier world.",
+    "contest_price": "Recognition and Collaboration Opportunities",
+    "prize_money": 10000,
+    "instruction": "Form a team with diverse skills, ideate innovative solutions, and present a functional prototype by the end of the hackathon.",
+    "tags": "medical",
+    "deadline": "2023-06-15",
+    "participation_count": 250
+  },
+  {
+    "contest_name": "Business Challenge 2023",
+    "image": "https://i.ibb.co/2hHPWqc/4102306-870.jpg",
+    "description": "Join the ultimate business challenge of the year! This contest will test your entrepreneurial skills and strategic thinking. Participants will engage in a series of challenging tasks, from analyzing market trends to devising comprehensive business plans. The competition aims to foster creativity and leadership in the business world. Get ready for an immersive experience that will push your boundaries and redefine your approach to business innovation.",
+    "contest_price": "Exclusive Trophy and Certificate",
+    "prize_money": 10000,
+    "instruction": "Follow the provided case studies and submit your innovative business plan by the deadline.",
+    "tags": "business",
+    "deadline": "2023-03-15",
+    "participation_count": 150
+  },
+  {
+    "contest_name": "Medical Research Excellence",
+    "image": "https://i.ibb.co/MNYSGc5/23431529-6780387.jpg",
+    "description": "Participate in the Medical Research Excellence contest to showcase your research capabilities in the field of medicine and healthcare. This prestigious competition encourages researchers to explore groundbreaking ideas and contribute to the advancement of medical science. The contest is open to professionals and students passionate about making a positive impact on healthcare. Submit your cutting-edge research paper, delve into the intricacies of medical exploration, and join a community dedicated to pushing the boundaries of medical knowledge.",
+    "contest_price": "Recognition and Networking Opportunity",
+    "prize_money": 8000,
+    "instruction": "Submit your groundbreaking medical research paper along with a detailed abstract.",
+    "tags": "medical",
+    "deadline": "2023-04-10",
+    "participation_count": 100
+  },
+  {
+    "contest_name": "Creative Article Writing Marathon",
+    "image": "https://i.ibb.co/b7PHdp6/8a3x-yo70-220622.jpg",
+    "description": "Unleash your creativity in the Creative Article Writing Marathon! Write compelling articles on various topics and showcase your writing prowess. This marathon is not just a competition; it's a journey of self-expression and storytelling. Participants are encouraged to explore diverse themes and present their unique perspectives through the art of writing. Immerse yourself in the world of words, craft narratives that captivate, and let your creativity shine.",
+    "contest_price": "Featured Publication on our Website",
+    "prize_money": 5000,
+    "instruction": "Submit original and engaging articles in English with a minimum of 1000 words.",
+    "tags": "Article",
+    "deadline": "2023-02-28",
+    "participation_count": 200
+  },
+  {
+    "contest_name": "Epic Gaming Tournament 2023",
+    "image": "https://i.ibb.co/qj0cWk7/8048696.jpg",
+    "description": "Gear up for the most thrilling gaming tournament of the year! Compete with the best gamers and claim the title of the ultimate gaming champion. The Epic Gaming Tournament 2023 features multiple game genres, ensuring a dynamic and challenging experience for all participants. Join us for a celebration of skill, strategy, and pure gaming excitement! Engage in fierce battles, conquer virtual realms, and emerge as a true gaming legend.",
+    "contest_price": "Custom Gaming Gear Package",
+    "prize_money": 12000,
+    "instruction": "Register for the tournament and participate in the qualifying rounds. Only the top players will advance to the final showdown.",
+    "tags": "gaming",
+    "deadline": "2023-05-20",
+    "participation_count": 300
+  }
+]
