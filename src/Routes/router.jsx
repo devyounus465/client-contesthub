@@ -18,6 +18,11 @@ import AddContest from "../Pages/Dashboard/AddContest/AddContest";
 import CreatorRoute from "./CreatorRoute";
 import MyContest from "../Pages/Dashboard/MyContest/MyContest";
 import UpdateMyContest from "../Pages/Dashboard/UpdateMyContest/UpdateMyContest";
+import Payment from "../Pages/Dashboard/Payment/Payment";
+import Submission from "../Pages/Dashboard/Submission/Submission";
+import ContestSubmit from "../Pages/Dashboard/ContestSubmit/ContestSubmit";
+import SubmissionDetails from "../Pages/Dashboard/SubmissionDetails/SubmissionDetails";
+import DashboardPage from "../Pages/Dashboard/DashboardPage/DashboardPage";
 
 const router = createBrowserRouter([
   {
@@ -53,6 +58,7 @@ const router = createBrowserRouter([
   },
   {
     path: "dashboard",
+
     element: (
       <PrivateRoute>
         <Dashboard></Dashboard>
@@ -101,6 +107,22 @@ const router = createBrowserRouter([
           </CreatorRoute>
         ),
       },
+      {
+        path: "contestSubmit",
+        element: (
+          <CreatorRoute>
+            <ContestSubmit></ContestSubmit>
+          </CreatorRoute>
+        ),
+      },
+      {
+        path: "submissionDetails/:id",
+        element: (
+          <CreatorRoute>
+            <SubmissionDetails></SubmissionDetails>
+          </CreatorRoute>
+        ),
+      },
       //   user routes
       {
         path: "myprofile",
@@ -113,6 +135,18 @@ const router = createBrowserRouter([
       {
         path: "myWining",
         element: <MyWining></MyWining>,
+      },
+      {
+        path: "payment/:id",
+        element: <Payment></Payment>,
+      },
+      {
+        path: "submisson/:id",
+        element: (
+          <PrivateRoute>
+            <Submission></Submission>
+          </PrivateRoute>
+        ),
       },
     ],
   },

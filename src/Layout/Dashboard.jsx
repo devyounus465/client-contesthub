@@ -1,4 +1,4 @@
-import { FaUsers } from "react-icons/fa";
+import { FaHome, FaUsers } from "react-icons/fa";
 import { NavLink, Outlet } from "react-router-dom";
 import useAdmin from "../Hooks/useAdmin";
 import useCreator from "../Hooks/useCreator";
@@ -10,6 +10,11 @@ const Dashboard = () => {
     <div className="flex container">
       <div className="w-64 py-12 px-4 h-screen bg-orange-500">
         <ul className="menu space-y-4">
+          <li>
+            <NavLink to={"/"} className={"bg-white text-md"}>
+              <FaHome className="text-orange-500 text-xl "></FaHome> Home
+            </NavLink>
+          </li>
           {isAdmin ? (
             <>
               <li>

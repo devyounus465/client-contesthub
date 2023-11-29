@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import useAxiosPublic from "../../Hooks/useAxiosPublic";
 import { useEffect, useState } from "react";
 
@@ -12,6 +12,7 @@ const ContestDetails = () => {
   const [sec, setSec] = useState(0);
 
   const {
+    _id,
     contest_name,
     contest_price,
     deadline,
@@ -82,9 +83,12 @@ const ContestDetails = () => {
             </div>
           </div>
           <div className="flex gap-6 items-center pt-8">
-            <button className="btn bg-orange-500 text-white">
-              Registration Now
-            </button>
+            <Link to={`/dashboard/payment/${_id}`}>
+              {" "}
+              <button className="btn bg-orange-500 text-white">
+                Registration Now
+              </button>
+            </Link>
             <h3 className="text-orange-500 text-lg font-bold">
               Prize Money: ${prize_money}
             </h3>

@@ -1,8 +1,13 @@
 import { Link, NavLink } from "react-router-dom";
 import useAuth from "../../Hooks/useAuth";
+import useAdmin from "../../Hooks/useAdmin";
+import useCreator from "../../Hooks/useCreator";
 
 const NavBar = () => {
   const { user, userLogOut } = useAuth();
+  const { isAdmin } = useAdmin();
+  const { isCreator } = useCreator();
+
   const navItem = (
     <>
       <NavLink
@@ -92,7 +97,9 @@ const NavBar = () => {
               className="menu menu-sm dropdown-content mt-3 z-[9] p-4 space-y-3 shadow bg-orange-500 text-white  rounded-box w-52"
             >
               <li>{user ? user.displayName : "Gost"}</li>
+
               <Link to={"/dashboard"}>Dashboard</Link>
+
               <Link onClick={handleLogOut}>LogOut</Link>
             </ul>
           </div>
